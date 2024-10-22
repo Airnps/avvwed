@@ -1,0 +1,41 @@
+# NAME: ymdl
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2024-07-03 16:16:16
+# DOMAIN-KEYWORD: 5
+# DOMAIN-SUFFIX: 1
+# PROCESS-NAME: 28
+# TOTAL: 34
+payload:
+  - DOMAIN-KEYWORD, taobeiv
+  - DOMAIN-KEYWORD, ephone
+  - DOMAIN-KEYWORD, yangtb2024
+  - DOMAIN-KEYWORD, smnet
+  - DOMAIN-KEYWORD, chatytai
+  - DOMAIN-KEYWORD, sealos
+  - DOMAIN-KEYWORD, linuxdo
+  - DOMAIN-KEYWORD, aabao
+  - DOMAIN-KEYWORD, 7xnn
+  - DOMAIN-KEYWORD, zeroai
+  - DOMAIN-KEYWORD, gpt5
+  - DOMAIN-KEYWORD, voapi-demo
+  - DOMAIN-KEYWORD, yunai
+  - DOMAIN-KEYWORD, aiearth
+  - DOMAIN-KEYWORD, soulmatesweb
+  
+  
+  
+  
+  #- DOMAIN-SUFFIX, example.com, Proxy
+  #- DOMAIN, specific.domain.com, Proxy
+  #- IP-CIDR, 192.168.1.0/24, Proxy
+  #- GEOIP, CN, DIRECT
+  #- MATCH, Proxy
+
+
+#DOMAIN-SUFFIX: 匹配以指定后缀结尾的域名。例如，example.com 将匹配 www.example.com 和 sub.example.com。
+#DOMAIN-KEYWORD: 匹配包含指定关键词的域名。例如，keyword 将匹配 keyword.com 和 sub.keyword.com。
+#DOMAIN: 精确匹配指定的域名。例如，specific.domain.com 只匹配这个特定域名。
+#IP-CIDR: 匹配指定 IP 段的流量。
+#GEOIP: 根据地理位置选择路由方式。例如，CN 表示中国的 IP 地址。
+#MATCH: 匹配所有未被前面规则匹配的流量。
