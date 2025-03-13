@@ -1,0 +1,84 @@
+proxies:
+  - {name: 🇭🇰 香港-01 x1, server: zj-api.2819v2rhzb56.download, port: 27760, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇭🇰 香港-02 x1, server: gz-api.2819v2rhzb56.download, port: 27760, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇭🇰 香港-03 x1, server: zj-api.2819v2rhzb56.download, port: 27763, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇭🇰 香港-04 x1, server: gz-api.2819v2rhzb56.download, port: 27763, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇭🇰 香港-05 x1, server: zj-api.2819v2rhzb56.download, port: 27711, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇭🇰 香港-06 x1, server: gz-api.2819v2rhzb56.download, port: 27711, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇭🇰 香港-07 x1, server: zj-api.2819v2rhzb56.download, port: 27712, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇭🇰 香港-08 x1, server: gz-api.2819v2rhzb56.download, port: 27712, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇭🇰 香港-09 x1, server: zj-api.2819v2rhzb56.download, port: 27713, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇭🇰 香港-10 x1, server: gz-api.2819v2rhzb56.download, port: 27713, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇭🇰 香港-11 x1, server: zj-api.2819v2rhzb56.download, port: 27714, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇭🇰 香港-12 x1, server: gz-api.2819v2rhzb56.download, port: 27714, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇭🇰 香港-13 x1, server: zj-api.2819v2rhzb56.download, port: 27769, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇭🇰 香港-14 x1, server: gz-api.2819v2rhzb56.download, port: 27769, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇭🇰 香港-15 x1, server: zj-api.2819v2rhzb56.download, port: 27801, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇭🇰 香港-16 x1, server: gz-api.2819v2rhzb56.download, port: 27801, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇭🇰 香港-17 x1, server: zj-api.2819v2rhzb56.download, port: 27802, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇭🇰 香港-18 x1, server: gz-api.2819v2rhzb56.download, port: 27802, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇭🇰 香港-19 x1, server: zj-api.2819v2rhzb56.download, port: 27759, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇭🇰 香港-20 x1, server: gz-api.2819v2rhzb56.download, port: 27759, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇭🇰 香港-测试 x0.5, server: zj-api.2819v2rhzb56.download, port: 27816, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇸🇬 新加坡-01 x1, server: zj-api.2819v2rhzb56.download, port: 27715, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇸🇬 新加坡-02 x1, server: gz-api.2819v2rhzb56.download, port: 27715, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇸🇬 新加坡-03 x1, server: zj-api.2819v2rhzb56.download, port: 27716, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇸🇬 新加坡-04 x1, server: gz-api.2819v2rhzb56.download, port: 27716, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇸🇬 新加坡-05 x1, server: zj-api.2819v2rhzb56.download, port: 27717, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇸🇬 新加坡-06 x1, server: gz-api.2819v2rhzb56.download, port: 27717, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇸🇬 新加坡-07 x1, server: zj-api.2819v2rhzb56.download, port: 27803, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇸🇬 新加坡-08 x1, server: gz-api.2819v2rhzb56.download, port: 27803, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇲🇾 马来西亚-01 x1, server: zj-api.2819v2rhzb56.download, port: 27751, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇲🇾 马来西亚-02 x1, server: gz-api.2819v2rhzb56.download, port: 27751, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇲🇾 马来西亚-03 x1, server: zj-api.2819v2rhzb56.download, port: 27835, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇲🇾 马来西亚-04 x1, server: gz-api.2819v2rhzb56.download, port: 27835, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇨🇳 台湾-01 x1, server: zj-api.2819v2rhzb56.download, port: 27730, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇨🇳 台湾-02 x1, server: gz-api.2819v2rhzb56.download, port: 27730, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇨🇳 台湾-03 x1, server: zj-api.2819v2rhzb56.download, port: 27750, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇨🇳 台湾-04 x1, server: gz-api.2819v2rhzb56.download, port: 27750, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇨🇳 台湾-05 x1, server: zj-api.2819v2rhzb56.download, port: 27758, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇨🇳 台湾-06 x1, server: gz-api.2819v2rhzb56.download, port: 27758, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇲🇴 澳门-01 x1, server: zj-api.2819v2rhzb56.download, port: 27811, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇲🇴 澳门-02 x1, server: gz-api.2819v2rhzb56.download, port: 27811, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇹🇭 泰国-01 x1, server: zj-api.2819v2rhzb56.download, port: 27736, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇹🇭 泰国-02 x1, server: gz-api.2819v2rhzb56.download, port: 27736, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇹🇭 泰国-03 x1, server: zj-api.2819v2rhzb56.download, port: 27800, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇹🇭 泰国-04 x1, server: gz-api.2819v2rhzb56.download, port: 27800, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇮🇳 印度-01 x1, server: zj-api.2819v2rhzb56.download, port: 27731, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇮🇳 印度-02 x1, server: gz-api.2819v2rhzb56.download, port: 27731, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇦🇺 澳大利亚-01 x1, server: zj-api.2819v2rhzb56.download, port: 27732, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇦🇺 澳大利亚-02 x1, server: gz-api.2819v2rhzb56.download, port: 27732, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇵🇭 菲律宾-01 x1, server: zj-api.2819v2rhzb56.download, port: 27737, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇵🇭 菲律宾-02 x1, server: gz-api.2819v2rhzb56.download, port: 27737, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇻🇳 越南-01 x1, server: zj-api.2819v2rhzb56.download, port: 27738, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇻🇳 越南-02 x1, server: gz-api.2819v2rhzb56.download, port: 27738, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇰🇿 哈萨克斯坦-01 x1, server: zj-api.2819v2rhzb56.download, port: 27739, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇰🇿 哈萨克斯坦-02 x1, server: gz-api.2819v2rhzb56.download, port: 27739, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇮🇩 印尼-01 x1, server: zj-api.2819v2rhzb56.download, port: 27787, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇮🇩 印尼-02 x1, server: gz-api.2819v2rhzb56.download, port: 27787, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇯🇵 日本-01 x1, server: gzother-api.2819v2rhzb56.download, port: 27718, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇯🇵 日本-02 x1, server: zjother-api.2819v2rhzb56.download, port: 27718, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇯🇵 日本-03 x1, server: gzother-api.2819v2rhzb56.download, port: 27719, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇯🇵 日本-04 x1, server: zjother-api.2819v2rhzb56.download, port: 27719, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇯🇵 日本-05 x1, server: gzother-api.2819v2rhzb56.download, port: 27761, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇯🇵 日本-06 x1, server: zjother-api.2819v2rhzb56.download, port: 27761, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇯🇵 日本-07 x1, server: gzother-api.2819v2rhzb56.download, port: 27721, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇯🇵 日本-08 x1, server: zjother-api.2819v2rhzb56.download, port: 27721, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇯🇵 日本-09 x1, server: gzother-api.2819v2rhzb56.download, port: 27765, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇯🇵 日本-10 x1, server: zjother-api.2819v2rhzb56.download, port: 27765, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇰🇷 韩国-01 x1, server: gzother-api.2819v2rhzb56.download, port: 27722, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇰🇷 韩国-02 x1, server: zjother-api.2819v2rhzb56.download, port: 27722, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇰🇷 韩国-03 x1, server: gzother-api.2819v2rhzb56.download, port: 27792, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇰🇷 韩国-04 x1, server: zjother-api.2819v2rhzb56.download, port: 27792, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇺🇸 美国-01 x1, server: gzother-api.2819v2rhzb56.download, port: 27723, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇺🇸 美国-02 x1, server: zjother-api.2819v2rhzb56.download, port: 27723, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇺🇸 美国-03 x1, server: gzother-api.2819v2rhzb56.download, port: 27762, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇺🇸 美国-04 x1, server: zjother-api.2819v2rhzb56.download, port: 27762, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇺🇸 美国-05 x1, server: gzother-api.2819v2rhzb56.download, port: 27725, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇺🇸 美国-06 x1, server: zjother-api.2819v2rhzb56.download, port: 27725, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇺🇸 美国-07 x1, server: gzother-api.2819v2rhzb56.download, port: 27726, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇺🇸 美国-08 x1, server: zjother-api.2819v2rhzb56.download, port: 27726, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇺🇸 美国-09 x1, server: gzother-api.2819v2rhzb56.download, port: 27826, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇺🇸 美国-10 x1, server: zjother-api.2819v2rhzb56.download, port: 27826, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇺🇸 美国-11 x1, server: gzother-api.2819v2rhzb56.download, port: 27827, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇺🇸 美国-12 x1, server: zjother-api.2819v2rhzb56.download, port: 27827, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
