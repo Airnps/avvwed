@@ -1,0 +1,14 @@
+proxies:
+  - {name: 🇭🇰 广移-Hong Kong1, server: gy.syrixhub.xyz, port: 48866, type: ss, cipher: aes-128-gcm, password: 60d392c5-7a55-4867-83dd-356784fdb626, tfo: false}
+  - {name: 🇭🇰 广移-Hong Kong2, server: gy.syrixhub.xyz, port: 37143, type: ss, cipher: aes-128-gcm, password: 60d392c5-7a55-4867-83dd-356784fdb626, tfo: false}
+  - {name: 🇭🇰 广移-Hong Kong3, server: gy.syrixhub.xyz, port: 42145, type: ss, cipher: aes-128-gcm, password: 60d392c5-7a55-4867-83dd-356784fdb626, tfo: false}
+  - {name: 🇭🇰 广移-Hong Kong4, server: gy.syrixhub.xyz, port: 11411, type: ss, cipher: aes-128-gcm, password: 60d392c5-7a55-4867-83dd-356784fdb626, tfo: false}
+  - {name: 🇭🇰 香港住宅2, server: gy.syrixhub.xyz, port: 33038, type: ss, cipher: aes-128-gcm, password: 60d392c5-7a55-4867-83dd-356784fdb626, tfo: false}
+  - {name: 🇭🇰 香港住宅5, server: gy.syrixhub.xyz, port: 21903, type: ss, cipher: aes-128-gcm, password: 60d392c5-7a55-4867-83dd-356784fdb626, tfo: false}
+  - {name: 🇭🇰 香港住宅6, server: gy.syrixhub.xyz, port: 39168, type: ss, cipher: aes-128-gcm, password: 60d392c5-7a55-4867-83dd-356784fdb626, tfo: false}
+  - {name: 🇭🇰 香港住宅7, server: gy.syrixhub.xyz, port: 34731, type: ss, cipher: aes-128-gcm, password: 60d392c5-7a55-4867-83dd-356784fdb626, tfo: false}
+  - {name: 🇭🇰 佛山联通-Hong Kong8, server: lt.syrixhub.xyz, port: 27207, type: ss, cipher: aes-128-gcm, password: 60d392c5-7a55-4867-83dd-356784fdb626, tfo: false}
+  - {name: 🇭🇰 佛山联通-Hong Kong9, server: lt.syrixhub.xyz, port: 10135, type: ss, cipher: aes-128-gcm, password: 60d392c5-7a55-4867-83dd-356784fdb626, tfo: false}
+  - {name: 🇭🇰 佛山联通-Hong Kong10, server: lt.syrixhub.xyz, port: 17261, type: ss, cipher: aes-128-gcm, password: 60d392c5-7a55-4867-83dd-356784fdb626, tfo: false}
+  - {name: 🇭🇰 佛山联通-Hong Kong11, server: lt.syrixhub.xyz, port: 34750, type: ss, cipher: chacha20-ietf-poly1305, password: 60d392c5-7a55-4867-83dd-356784fdb626, tfo: false}
+  - {name: 🇭🇰 佛山联通-Hong Kong12, server: lt.syrixhub.xyz, port: 21171, type: ss, cipher: chacha20-ietf-poly1305, password: 60d392c5-7a55-4867-83dd-356784fdb626, tfo: false}
