@@ -5,4 +5,32 @@ proxies:
   - {name: 🇨🇳 广西南宁-台湾-04, server: gx.syrixhub.xyz, port: 27750, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
   - {name: 🇨🇳 四川遂宁-台湾-05, server: sc.syrixhub.xyz, port: 27758, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
   - {name: 🇨🇳 江苏宿迁-台湾-06, server: js.syrixhub.xyz, port: 27758, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+    - {name: 🇯🇵 中山移动-日本-01, server: zs.syrixhub.xyz, port: 27718, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇯🇵 中山移动-日本-02, server: zs.syrixhub.xyz, port: 27718, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇯🇵 中山移动-日本-03, server: zs.syrixhub.xyz, port: 27719, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇯🇵 广西南宁-日本-04, server: gx.syrixhub.xyz, port: 27719, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇯🇵 广西南宁-日本-05, server: gx.syrixhub.xyz, port: 27761, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇯🇵 四川遂宁-日本-06, server: sc.syrixhub.xyz, port: 27761, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇯🇵 四川遂宁-日本-07, server: sc.syrixhub.xyz, port: 27721, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇯🇵 江苏宿迁-日本-08, server: js.syrixhub.xyz, port: 27721, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇯🇵 武汉联通-日本-09, server: wh.syrixhub.xyz, port: 27765, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇯🇵 武汉联通-日本-10, server: wh.syrixhub.xyz, port: 27765, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇰🇷 中山移动-韩国-01, server: zs.syrixhub.xyz, port: 27722, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇰🇷 广西南宁-韩国-02, server: gx.syrixhub.xyz, port: 27722, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇰🇷 四川遂宁-韩国-03, server: sc.syrixhub.xyz, port: 27792, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇰🇷 武汉联通-韩国-04, server: wh.syrixhub.xyz, port: 27792, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇺🇸 中山移动-美国-01, server: zs.syrixhub.xyz, port: 27723, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇺🇸 中山移动-美国-02, server: zs.syrixhub.xyz, port: 27723, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇺🇸 中山移动-美国-03, server: zs.syrixhub.xyz, port: 27762, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇺🇸 中山移动-美国-04, server: zs.syrixhub.xyz, port: 27762, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇺🇸 中山移动-美国-05, server: zs.syrixhub.xyz, port: 27725, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇺🇸 广西南宁-美国-06, server: gx.syrixhub.xyz, port: 27725, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇺🇸 广西南宁-美国-07, server: gx.syrixhub.xyz, port: 27726, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇺🇸 广西南宁-美国-08, server: gx.syrixhub.xyz, port: 27726, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇺🇸 四川遂宁-美国-09, server: sc.syrixhub.xyz, port: 27826, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇺🇸 江苏宿迁-美国-10, server: js.syrixhub.xyz, port: 27826, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇺🇸 武汉联通-美国-11, server: wh.syrixhub.xyz, port: 27827, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇺🇸 武汉联通-美国-12, server: wh.syrixhub.xyz, port: 27827, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+
+
   
