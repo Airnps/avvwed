@@ -19,3 +19,4 @@ proxies:
   - {name: 🇭🇰 江苏宿迁-香港-18, server: js.syrixhub.xyz, port: 27802, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
   - {name: 🇭🇰 江苏宿迁-香港-19, server: js.syrixhub.xyz, port: 27759, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
   - {name: 🇭🇰 江苏宿迁-香港-20, server: js.syrixhub.xyz, port: 27759, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+
