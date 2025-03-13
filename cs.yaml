@@ -1,7 +1,4 @@
 proxies:
-  - {name: 🇭🇰 中山移动-香港-01, server: js.syrixhub.xyz, port: 27760, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
-  - {name: 🇭🇰 中山移动-香港-02, server: js.syrixhub.xyz, port: 27760, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
-  - {name: 🇭🇰 中山移动-香港-06, server: js.syrixhub.xyz, port: 27711, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
-  - {name: 🇭🇰 四川遂宁-香港-13, server: zs.syrixhub.xyz, port: 27769, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
-  - {name: 🇭🇰 四川遂宁-香港-14, server: zs.syrixhub.xyz, port: 27769, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇭🇰 武汉联通-香港-01, server: wh.syrixhub.xyz, port: 27760, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇭🇰 武汉联通-香港-02, server: wh.syrixhub.xyz, port: 27760, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
   
