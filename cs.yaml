@@ -1,0 +1,21 @@
+proxies:
+  - {name: 🇭🇰 中山移动-香港-01, server: zs.syrixhub.xyz, port: 27760, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇭🇰 中山移动-香港-02, server: zs.syrixhub.xyz, port: 27760, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇭🇰 中山移动-香港-03, server: zs.syrixhub.xyz, port: 27763, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇭🇰 中山移动-香港-04, server: zs.syrixhub.xyz, port: 27763, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇭🇰 中山移动-香港-05, server: zs.syrixhub.xyz, port: 27711, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇭🇰 中山移动-香港-06, server: zs.syrixhub.xyz, port: 27711, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇭🇰 广西南宁-香港-07, server: gx.syrixhub.xyz, port: 27712, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇭🇰 广西南宁-香港-08, server: gx.syrixhub.xyz, port: 27712, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇭🇰 广西南宁-香港-09, server: gx.syrixhub.xyz, port: 27713, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇭🇰 广西南宁-香港-10, server: gx.syrixhub.xyz, port: 27713, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇭🇰 广西南宁-香港-11, server: gx.syrixhub.xyz, port: 27714, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇭🇰 广西南宁-香港-12, server: gx.syrixhub.xyz, port: 27714, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇭🇰 四川遂宁-香港-13, server: sc.syrixhub.xyz, port: 27769, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇭🇰 四川遂宁-香港-14, server: sc.syrixhub.xyz, port: 27769, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇭🇰 四川遂宁-香港-15, server: sc.syrixhub.xyz, port: 27801, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇭🇰 四川遂宁-香港-16, server: sc.syrixhub.xyz, port: 27801, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇭🇰 江苏宿迁-香港-17, server: js.syrixhub.xyz, port: 27802, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇭🇰 江苏宿迁-香港-18, server: js.syrixhub.xyz, port: 27802, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇭🇰 江苏宿迁-香港-19, server: js.syrixhub.xyz, port: 27759, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇭🇰 江苏宿迁-香港-20, server: js.syrixhub.xyz, port: 27759, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
