@@ -1,4 +1,4 @@
 proxies:
-  - {name: 🇭🇰 武汉联通-香港-01, server: wh.syrixhub.xyz, port: 27760, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
-  - {name: 🇭🇰 武汉联通-香港-02, server: wh.syrixhub.xyz, port: 27760, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇭🇰 武汉联通-香港-01, server: gx.syrixhub.xyz, port: 27760, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
+  - {name: 🇭🇰 武汉联通-香港-02, server: gx.syrixhub.xyz, port: 27760, type: ss, cipher: chacha20-ietf-poly1305, password: 8c841034-9824-4fdf-bd52-e24bef5005bc, tfo: false}
   
