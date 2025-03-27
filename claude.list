@@ -1,0 +1,12 @@
+# NAME: Apple
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2025-03-27 02:12:23
+# DOMAIN: 10
+# DOMAIN-KEYWORD: 7
+# DOMAIN-SUFFIX: 1549
+# IP-CIDR: 10
+# PROCESS-NAME: 13
+# TOTAL: 1589
+
+DOMAIN-KEYWORD,claude
