@@ -1,0 +1,33 @@
+DOMAIN-KEYWORD, taobeiv
+DOMAIN-KEYWORD, ephone
+DOMAIN-KEYWORD, yangtb2024
+DOMAIN-KEYWORD, smnet
+DOMAIN-KEYWORD, chatytai
+DOMAIN-KEYWORD, sealos
+DOMAIN-KEYWORD, linuxdo
+DOMAIN-KEYWORD, aabao
+DOMAIN-KEYWORD, 7xnn
+DOMAIN-KEYWORD, zeroai
+DOMAIN-KEYWORD, gpt5
+DOMAIN-KEYWORD, voapi-demo
+DOMAIN-KEYWORD, yunai
+DOMAIN-KEYWORD, aiearth
+DOMAIN-KEYWORD, microsoftonline
+
+  # Bigolive主要域名
+  - DOMAIN-SUFFIX,bigolive.tv
+  - DOMAIN,static-act.bigolive.tv
+  - DOMAIN,esx.bigolive.tv
+  - DOMAIN-SUFFIX,dfaklj.tech
+  - DOMAIN-SUFFIX,piojm.tech
+  - DOMAIN-SUFFIX,weihuitel.com
+
+
+  
+  
+  
+  #- DOMAIN-SUFFIX, example.com, Proxy
+  #- DOMAIN, specific.domain.com, Proxy
+  #- IP-CIDR, 192.168.1.0/24, Proxy
+  #- GEOIP, CN, DIRECT
+  #- MATCH, Proxy
