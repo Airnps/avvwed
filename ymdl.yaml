@@ -1,18 +1,20 @@
-DOMAIN-KEYWORD, taobeiv
-DOMAIN-KEYWORD, ephone
-DOMAIN-KEYWORD, yangtb2024
-DOMAIN-KEYWORD, smnet
-DOMAIN-KEYWORD, chatytai
-DOMAIN-KEYWORD, sealos
-DOMAIN-KEYWORD, linuxdo
-DOMAIN-KEYWORD, aabao
-DOMAIN-KEYWORD, 7xnn
-DOMAIN-KEYWORD, zeroai
-DOMAIN-KEYWORD, gpt5
-DOMAIN-KEYWORD, voapi-demo
-DOMAIN-KEYWORD, yunai
-DOMAIN-KEYWORD, aiearth
-DOMAIN-KEYWORD, microsoftonline
+payload:
+  - DOMAIN,api.imem.app 
+  - DOMAIN-KEYWORD, taobeiv
+  - DOMAIN-KEYWORD, ephone
+  - DOMAIN-KEYWORD, yangtb2024
+  - DOMAIN-KEYWORD, smnet
+  - DOMAIN-KEYWORD, chatytai
+  - DOMAIN-KEYWORD, sealos
+  - DOMAIN-KEYWORD, linuxdo
+  - DOMAIN-KEYWORD, aabao
+  - DOMAIN-KEYWORD, 7xnn
+  - DOMAIN-KEYWORD, zeroai
+  - DOMAIN-KEYWORD, gpt5
+  - DOMAIN-KEYWORD, voapi-demo
+  - DOMAIN-KEYWORD, yunai
+  - DOMAIN-KEYWORD, aiearth
+  - DOMAIN-KEYWORD, microsoftonline
 
   # Bigolive主要域名
   - DOMAIN-SUFFIX,bigolive.tv
