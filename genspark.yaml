@@ -1,1 +1,2 @@
-DOMAIN-KEYWORD, genspark
+payload:
+  - DOMAIN-KEYWORD, genspark
