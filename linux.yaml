@@ -1,1 +1,2 @@
-DOMAIN-KEYWORD,linux.do
+payload:
+  - DOMAIN-KEYWORD,linux.do
