@@ -16,6 +16,7 @@ payload:
   - DOMAIN-KEYWORD, aiearth
   - DOMAIN-KEYWORD, microsoftonline
   - DOMAIN-KEYWORD, v2rayssr
+   - DOMAIN-KEYWORD, nezha
 
   # Bigolive主要域名
   - DOMAIN-SUFFIX,bigolive.tv
