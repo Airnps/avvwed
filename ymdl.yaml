@@ -18,6 +18,7 @@ payload:
   - DOMAIN-KEYWORD, v2rayssr
   - DOMAIN-KEYWORD, nezha
   - DOMAIN-KEYWORD, nginx
+  - DOMAIN-KEYWORD, cloudflare
 
   # Bigolive主要域名
   - DOMAIN-SUFFIX,bigolive.tv
