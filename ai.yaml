@@ -1,6 +1,0 @@
-proxies:
-  - {name: 🇭🇰 香港IEPL|深港-02, server: bldgz.linkcubecloud.dev, port: 8101, client-fingerprint: chrome, type: trojan, password: 895A7475-B721-7719-AD7D-AE3B3927BBE3, sni: cos.ap-guangzhou.myqcloud.com, skip-cert-verify: true}
-  - {name: 🇭🇰 香港IEPL|深港-03, server: bldgz.linkcubecloud.dev, port: 8104, client-fingerprint: chrome, type: trojan, password: 895A7475-B721-7719-AD7D-AE3B3927BBE3, sni: cos.ap-guangzhou.myqcloud.com, skip-cert-verify: true}
-  - {name: 🇭🇰 香港IEPL|深港-04, server: bldgz.linkcubecloud.dev, port: 8106, client-fingerprint: chrome, type: trojan, password: 895A7475-B721-7719-AD7D-AE3B3927BBE3, sni: cos.ap-guangzhou.myqcloud.com, skip-cert-verify: true}
-  - {name: 🇭🇰 香港IEPL|深港-05, server: bldgz.linkcubecloud.dev, port: 8102, client-fingerprint: chrome, type: trojan, password: 895A7475-B721-7719-AD7D-AE3B3927BBE3, sni: cos.ap-guangzhou.myqcloud.com, skip-cert-verify: true}
-  - {name: 🇭🇰 香港IEPL|深港-06, server: bldgz.linkcubecloud.dev, port: 8103, client-fingerprint: chrome, type: trojan, password: 895A7475-B721-7719-AD7D-AE3B3927BBE3, sni: cos.ap-guangzhou.myqcloud.com, skip-cert-verify: true}
