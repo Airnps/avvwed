@@ -19,6 +19,9 @@ payload:
   - DOMAIN-KEYWORD, nezha
   - DOMAIN-KEYWORD, nginx
   - DOMAIN-KEYWORD, cloudflare
+  - DOMAIN-KEYWORD, 52shuku
+  - DOMAIN-KEYWORD, 256wx
+  - DOMAIN-KEYWORD, banxia
 
   # Bigolive主要域名
   - DOMAIN-SUFFIX,bigolive.tv
