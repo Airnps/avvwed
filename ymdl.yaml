@@ -22,6 +22,7 @@ payload:
   - DOMAIN-KEYWORD, 52shuku
   - DOMAIN-KEYWORD, 256wx
   - DOMAIN-KEYWORD, banxia
+  - DOMAIN-KEYWORD, playwright
 
   # Bigolive主要域名
   - DOMAIN-SUFFIX,bigolive.tv
